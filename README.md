@@ -139,7 +139,9 @@ To use:
 
 ```javascript
 var CATEGORY_PLAYLIST_URL = "https://iptv-org.github.io/iptv/index.m3u";
+```
 just paste your playlist in like :-
+```javascript
 var CATEGORY_PLAYLIST_URL = "YOUR PLAYLIST HERE";
 ```
 
