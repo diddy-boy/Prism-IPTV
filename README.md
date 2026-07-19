@@ -137,9 +137,10 @@ To use:
 2. Open it in a modern browser
 3. Advanced users can replace this URL with their own M3U playlist source within the html page :-
 
-var CATEGORY_PLAYLIST_URL = "https://iptv-org.github.io/iptv/index.m3u"
+```javascript
+var CATEGORY_PLAYLIST_URL = "https://iptv-org.github.io/iptv/index.m3u";
 just paste your playlist in like :-
-var CATEGORY_PLAYLIST_URL = "YOUR PLAYLIST HERE"
+var CATEGORY_PLAYLIST_URL = "YOUR PLAYLIST HERE";
 
 ---
 
