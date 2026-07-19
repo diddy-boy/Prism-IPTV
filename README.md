@@ -1,6 +1,6 @@
 # Prism — Elegant IPTV / M3U Playlist Browser
 
-![Prism IPTV](screenshots/screenshot.png)
+![Prism IPTV](screenshots/Screenshot.png)
 
 Prism is a modern, elegant web-based IPTV playlist browser designed to turn large M3U playlists into a clean, easy-to-use live TV experience.
 
