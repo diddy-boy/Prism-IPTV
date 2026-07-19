@@ -183,6 +183,21 @@ https://www.tvlicensing.co.uk/
 
 ---
 
+# License
+
+Prism is released under the GNU General Public License v3.0.
+
+This means you are free to:
+
+* Use Prism
+* Modify Prism
+* Improve Prism
+* Share your changes
+
+Any distributed modified versions must also provide their source code under the same GPL license.
+
+Commercial closed-source redistribution is not permitted.
+
 # Disclaimer
 
 Prism is provided as an open-source software project.
