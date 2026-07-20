@@ -61,6 +61,7 @@ Stored settings include:
 * Last selected country
 * Show/hide discontinued channels setting
 * Last watched channel
+* User added playlist now gets stored for future openings
 
 This means users can return later and continue from where they left off.
 
@@ -135,15 +136,7 @@ To use:
 
 1. Download `Prism-IPTV.html`
 2. Open it in a modern browser
-3. Advanced users can replace this URL with their own M3U playlist source within the html page :-
-
-```javascript
-var CATEGORY_PLAYLIST_URL = "https://iptv-org.github.io/iptv/index.m3u";
-```
-just paste your playlist in like :-
-```javascript
-var CATEGORY_PLAYLIST_URL = "YOUR PLAYLIST HERE";
-```
+3. Advanced users can now replace the default playlist file with their own as long as the file type is a .m3u file
 
 ---
 
